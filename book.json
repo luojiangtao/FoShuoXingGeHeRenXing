@@ -1,3 +1,11 @@
 {
-    "title": "《佛说性格和人性》罗江涛·著"
+    "title": "《佛说性格和人性》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "6ab3213a7d7b67ff35f6cd3b75186b46"
+        }
+    }
 }
